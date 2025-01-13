@@ -24,3 +24,14 @@ Tested three algorithms: Logistic Regression, Random Forest, and Adaboost.
 Random Forest achieved the best precision at 87.8%.
 Insights for the Music Industry:
 Patterns and predictions can guide marketing strategies, resource allocation, and content recommendation.
+
+# Key Insights
+
+Hit songs tend to have higher loudness, energy, and danceability.
+Shorter durations often correlate with higher replay value.
+Genre Trends:
+
+Country, dance, and hip-hop dominate the charts.
+Model Applications:
+
+Record labels and marketers can use this model to identify promising tracks, allocate resources effectively, and optimize campaigns.
